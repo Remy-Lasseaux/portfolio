@@ -11,6 +11,8 @@ a {
     color: var(--color1);
 }
 
+.red { color: var(--color1); }
+
 
 /* Variables */
 :root {
